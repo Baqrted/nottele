@@ -1,10 +1,4 @@
-"""Emoji
 
-Available Commands:
-
-.br
-
-if u edit it then u r gay"""
 
 from telethon import events
 
